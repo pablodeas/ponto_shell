@@ -21,8 +21,8 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/pablodeas/ponto.git
-   cd ponto
+   git clone git@github.com:pablodeas/ponto_shell.git
+   cd ponto_shell
    ```
 
 2. Instale as dependências:
